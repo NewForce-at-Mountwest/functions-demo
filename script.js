@@ -24,8 +24,5 @@
 // Return the taco
 // Store it in a variable
 // Log the variable
-function makeATaco(shellType, toppingArray) {
-  var finishedTaco = "This is your finished taco!";
-}
 
 
